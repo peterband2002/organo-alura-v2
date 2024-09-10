@@ -1,0 +1,1 @@
+Para evitar de ter que ficar importando o React nos arquivos JSX, dentro da tsconfig.json, em compilerOptions e jsx, basta declarar "react-jsx". Isso em tempo de compilação será importado o React em todos os arquivos que retornam um JSX
