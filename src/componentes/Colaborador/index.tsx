@@ -1,4 +1,3 @@
-import { iColaborador } from '../../shared/interfaces/iColaborador'
 import './Colaborador.css'
 
 interface Props {
